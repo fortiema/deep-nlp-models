@@ -21,4 +21,4 @@ Remarks
 
 * All models were trained/tested using Tensorflow backend on a GTX1070.
 * Some models make use of pretrained GloVe vectors, you can download those `here <https://nlp.stanford.edu/projects/glove/>`_.
-** You can store then in the ``models/glove``, otherwise you can pass the full path to the model when you instantiate it.
+ * You can store then in the ``models/glove``, otherwise you can pass the full path to the model when you instantiate it.
