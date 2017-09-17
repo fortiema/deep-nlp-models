@@ -13,8 +13,8 @@ Models
 
 Classification
 ^^^^^^^^^^^^^^
-* **ykim2014** - *Convolutional Neural Networks for Sentence Classification*, Y. Kim (2014)
-
+* **ykim_2014** - *Convolutional Neural Networks for Sentence Classification*, Y. Kim (2014)
+* **xzhang_jzhao_ylecun_2015** - *Character-level Convolutional Networks for Text Classification*, X. Zhang - J. Zhao - Y. LeCun (2015)
 
 Remarks
 -------
